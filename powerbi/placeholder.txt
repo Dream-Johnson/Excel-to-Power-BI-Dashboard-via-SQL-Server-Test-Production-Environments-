@@ -1,1 +1,3 @@
+The test enviroment was tested on to the powerbi report.
 
+Later the same report was used to transfer the production data seemlesly. Didn't need to change anything to get the reports.
