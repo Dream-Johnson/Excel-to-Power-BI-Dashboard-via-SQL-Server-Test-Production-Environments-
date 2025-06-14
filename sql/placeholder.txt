@@ -1,1 +1,1 @@
-
+This folder conists of SQL code for Test enviroment and Production enviroment respectively.
