@@ -49,10 +49,13 @@ Update the Power BI data source to point to the production SQL Server.
 
 Validate all visuals and metrics with production data.
 
-### 📡 Finalize & Publish
+# ✅ Key Learning Outcomes
+Hands-on experience with BI pipeline design
 
-Publish dashboard to Power BI Service.
+SQL Server test-to-prod transition
 
-Schedule data refreshes from production server.
+Dashboard UX & performance best practices
+
+DAX, calculated columns, and Power BI modeling
 --------------------------------------------------------------------------------
 
